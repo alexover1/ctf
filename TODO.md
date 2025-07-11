@@ -2,7 +2,6 @@
 
 - Countdown timer at the end of the game so players get a chance to "breathe"
   and take in the fact that they just won / lost
-- Killing a player by throwing a trident does not give siphon
 - Sheep can get stuck in blocks
 
 ## Map Tweaks
