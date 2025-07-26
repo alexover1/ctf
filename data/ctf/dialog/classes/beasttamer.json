@@ -46,7 +46,7 @@
       "item": {
         "id": "minecraft:goat_horn",
         "components": {
-          "minecraft:item_name": {"text":"Commanding Horn","color":"aqua"},
+          "minecraft:item_name": {"text":"Battle Bugle","color":"aqua"},
           "minecraft:lore": [
             {"text":"Somehow even just holding it makes you want to charge into battle...","color":"gray","italic":false},
             {"text":""},

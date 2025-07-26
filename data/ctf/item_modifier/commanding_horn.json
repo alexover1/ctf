@@ -2,7 +2,7 @@
     "function": "minecraft:set_components",
     "components": {
         "minecraft:item_model": "minecraft:goat_horn",
-        "minecraft:item_name": "Commanding Horn",
+        "minecraft:item_name": "Battle Bugle",
         "minecraft:lore": [
             {
                 "text": "Use when your allies need a bit of a boost",
