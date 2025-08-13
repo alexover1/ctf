@@ -14,13 +14,12 @@
     {
       "type": "minecraft:item",
       "item": {
-        "id": "minecraft:music_disc_pigstep",
-        "count": 3,
+        "id": "minecraft:music_disc_chirp",
         "components": {
           "!minecraft:jukebox_playable": {},
-          "minecraft:item_model": "blaze_powder",
+          "minecraft:item_model": "blaze_rod",
           "minecraft:item_name": {
-            "text": "Fire Powder"
+            "text": "Fire Wand"
           },
           "minecraft:rarity": "rare",
           "minecraft:lore": [
